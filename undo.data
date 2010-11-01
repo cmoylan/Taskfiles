@@ -91,3 +91,7 @@ new [description:"redo collection manager" end:"1288650682" entry:"1288204215" s
 time 1288650736
 new [description:"add additional styles for edit/add-related/delete buttons" entry:"1288650736" status:"pending" uuid:"c182d8a1-64f1-4a1a-b2b9-9597ede71fe2"]
 ---
+time 1288651591
+old [description:"remove second item well, or what looks like a second well" entry:"1288642012" status:"pending" uuid:"80c9136d-a835-4cab-8390-17aa2db373d8"]
+new [description:"remove second item well, or what looks like a second well" end:"1288651591" entry:"1288642012" status:"completed" uuid:"80c9136d-a835-4cab-8390-17aa2db373d8"]
+---
