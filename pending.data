@@ -1,5 +1,4 @@
 [description:"move collection name to same level as edit collection" entry:"1288204160" status:"pending" uuid:"40b6bbf6-9d1a-420f-84da-b96187ec333a"]
-[description:"redo collection manager" entry:"1288204215" status:"pending" uuid:"51befdbe-9504-474b-9cd9-78d7bf0564af"]
 [description:"make a mini hud for confirmation" entry:"1288204224" status:"pending" uuid:"2d057d9e-1c8b-448d-b718-71e937596dfd"]
 [description:"move collection references into a widget" entry:"1288204236" status:"pending" uuid:"1c2de632-c6d7-4c7c-8835-9c6e49fd19a0"]
 [description:"make collection clickable to select" entry:"1288641993" status:"pending" uuid:"364a8d08-c48c-4557-90ee-3f8dce357714"]
@@ -7,3 +6,5 @@
 [description:"remove second item well, or what looks like a second well" entry:"1288642012" status:"pending" uuid:"80c9136d-a835-4cab-8390-17aa2db373d8"]
 [description:"use event delegation for task dragging" entry:"1288642081" status:"pending" uuid:"b1d7179b-a480-48b8-af71-6ebf76229e11"]
 [description:"change color of tasks" entry:"1288642102" status:"pending" uuid:"c4f580a3-7b41-4393-adb0-0f9706d5de0e"]
+[description:"add to drawer callback in p2p.drawer for single item" entry:"1288650670" status:"pending" uuid:"c73d9328-b41e-4f60-9180-982c8d5f522c"]
+[description:"add additional styles for edit/add-related/delete buttons" entry:"1288650736" status:"pending" uuid:"c182d8a1-64f1-4a1a-b2b9-9597ede71fe2"]

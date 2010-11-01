@@ -81,3 +81,13 @@ new [description:"use event delegation for task dragging" entry:"1288642081" sta
 time 1288642102
 new [description:"change color of tasks" entry:"1288642102" status:"pending" uuid:"c4f580a3-7b41-4393-adb0-0f9706d5de0e"]
 ---
+time 1288650670
+new [description:"add to drawer callback in p2p.drawer for single item" entry:"1288650670" status:"pending" uuid:"c73d9328-b41e-4f60-9180-982c8d5f522c"]
+---
+time 1288650684
+old [description:"redo collection manager" entry:"1288204215" status:"pending" uuid:"51befdbe-9504-474b-9cd9-78d7bf0564af"]
+new [description:"redo collection manager" end:"1288650682" entry:"1288204215" status:"deleted" uuid:"51befdbe-9504-474b-9cd9-78d7bf0564af"]
+---
+time 1288650736
+new [description:"add additional styles for edit/add-related/delete buttons" entry:"1288650736" status:"pending" uuid:"c182d8a1-64f1-4a1a-b2b9-9597ede71fe2"]
+---
