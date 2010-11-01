@@ -1,0 +1,83 @@
+time 1287686645
+new [description:"do stuff" entry:"1287686645" status:"pending" uuid:"d342a649-3d80-44e1-8a60-306269c14fc1"]
+---
+time 1287686658
+old [description:"do stuff" entry:"1287686645" status:"pending" uuid:"d342a649-3d80-44e1-8a60-306269c14fc1"]
+new [description:"do stuff" end:"1287686655" entry:"1287686645" status:"deleted" uuid:"d342a649-3d80-44e1-8a60-306269c14fc1"]
+---
+time 1287692737
+new [description:"Get Haircut" entry:"1287692737" status:"pending" uuid:"33fe7f95-3956-433b-b6b8-ee90f765d755"]
+---
+time 1287694588
+new [description:"Update FindLocal link" entry:"1287694588" status:"pending" uuid:"310a37b0-6760-480b-9da1-50337617ef75"]
+---
+time 1287694605
+old [description:"Get Haircut" entry:"1287692737" status:"pending" uuid:"33fe7f95-3956-433b-b6b8-ee90f765d755"]
+new [description:"Get Haircut" end:"1287694604" entry:"1287692737" status:"deleted" uuid:"33fe7f95-3956-433b-b6b8-ee90f765d755"]
+---
+time 1287694623
+new [description:"Fix related items in IE" entry:"1287694623" status:"pending" uuid:"e0834525-ac33-4998-9df6-b527ee75365c"]
+---
+time 1287698495
+old [description:"Fix related items in IE" entry:"1287694623" status:"pending" uuid:"e0834525-ac33-4998-9df6-b527ee75365c"]
+new [description:"Fix related items in IE" end:"1287698495" entry:"1287694623" status:"completed" uuid:"e0834525-ac33-4998-9df6-b527ee75365c"]
+---
+time 1287698504
+new [description:"checking related item IE fix to 19 and trunk" entry:"1287698504" status:"pending" uuid:"4a09e8d9-5ae0-4919-816e-1b9fba22a302"]
+---
+time 1287757984
+old [description:"checking related item IE fix to 19 and trunk" entry:"1287698504" status:"pending" uuid:"4a09e8d9-5ae0-4919-816e-1b9fba22a302"]
+new [description:"checking related item IE fix to 19 and trunk" end:"1287757984" entry:"1287698504" status:"completed" uuid:"4a09e8d9-5ae0-4919-816e-1b9fba22a302"]
+---
+time 1287758397
+old [description:"Update FindLocal link" entry:"1287694588" status:"pending" uuid:"310a37b0-6760-480b-9da1-50337617ef75"]
+new [description:"Update FindLocal link" end:"1287758397" entry:"1287694588" status:"completed" uuid:"310a37b0-6760-480b-9da1-50337617ef75"]
+---
+time 1288204160
+new [description:"move collection name to same level as edit collection" entry:"1288204160" status:"pending" uuid:"40b6bbf6-9d1a-420f-84da-b96187ec333a"]
+---
+time 1288204192
+new [description:"add check to save button" entry:"1288204192" status:"pending" uuid:"3364c98c-5e87-47eb-848d-f1eb94b72ce0"]
+---
+time 1288204198
+new [description:"add cross to cancel button" entry:"1288204198" status:"pending" uuid:"dcb0546c-3645-4528-bc4b-f0d0bf34e476"]
+---
+time 1288204215
+new [description:"redo collection manager" entry:"1288204215" status:"pending" uuid:"51befdbe-9504-474b-9cd9-78d7bf0564af"]
+---
+time 1288204224
+new [description:"make a mini hud for confirmation" entry:"1288204224" status:"pending" uuid:"2d057d9e-1c8b-448d-b718-71e937596dfd"]
+---
+time 1288204236
+new [description:"move collection references into a widget" entry:"1288204236" status:"pending" uuid:"1c2de632-c6d7-4c7c-8835-9c6e49fd19a0"]
+---
+time 1288628442
+new [description:"timesheet" entry:"1288628442" status:"pending" uuid:"6fd939a6-dd90-4815-bca1-a849e7734576"]
+---
+time 1288628452
+old [description:"add check to save button" entry:"1288204192" status:"pending" uuid:"3364c98c-5e87-47eb-848d-f1eb94b72ce0"]
+new [description:"add check to save button" end:"1288628452" entry:"1288204192" status:"completed" uuid:"3364c98c-5e87-47eb-848d-f1eb94b72ce0"]
+---
+time 1288641953
+old [description:"add cross to cancel button" entry:"1288204198" status:"pending" uuid:"dcb0546c-3645-4528-bc4b-f0d0bf34e476"]
+new [description:"add cross to cancel button" end:"1288641953" entry:"1288204198" status:"completed" uuid:"dcb0546c-3645-4528-bc4b-f0d0bf34e476"]
+---
+time 1288641983
+old [description:"timesheet" entry:"1288628442" status:"pending" uuid:"6fd939a6-dd90-4815-bca1-a849e7734576"]
+new [description:"timesheet" end:"1288641983" entry:"1288628442" status:"completed" uuid:"6fd939a6-dd90-4815-bca1-a849e7734576"]
+---
+time 1288641993
+new [description:"make collection clickable to select" entry:"1288641993" status:"pending" uuid:"364a8d08-c48c-4557-90ee-3f8dce357714"]
+---
+time 1288642000
+new [description:"fix use selection button" entry:"1288642000" status:"pending" uuid:"ecdf791b-2f34-4726-9ea2-354121e3bb00"]
+---
+time 1288642012
+new [description:"remove second item well, or what looks like a second well" entry:"1288642012" status:"pending" uuid:"80c9136d-a835-4cab-8390-17aa2db373d8"]
+---
+time 1288642081
+new [description:"use event delegation for task dragging" entry:"1288642081" status:"pending" uuid:"b1d7179b-a480-48b8-af71-6ebf76229e11"]
+---
+time 1288642102
+new [description:"change color of tasks" entry:"1288642102" status:"pending" uuid:"c4f580a3-7b41-4393-adb0-0f9706d5de0e"]
+---
