@@ -95,3 +95,60 @@ time 1288651591
 old [description:"remove second item well, or what looks like a second well" entry:"1288642012" status:"pending" uuid:"80c9136d-a835-4cab-8390-17aa2db373d8"]
 new [description:"remove second item well, or what looks like a second well" end:"1288651591" entry:"1288642012" status:"completed" uuid:"80c9136d-a835-4cab-8390-17aa2db373d8"]
 ---
+time 1288722637
+old [description:"add additional styles for edit/add-related/delete buttons" entry:"1288650736" status:"pending" uuid:"c182d8a1-64f1-4a1a-b2b9-9597ede71fe2"]
+new [description:"add additional styles for edit/add-related/delete buttons" end:"1288722637" entry:"1288650736" status:"completed" uuid:"c182d8a1-64f1-4a1a-b2b9-9597ede71fe2"]
+---
+time 1288726580
+old [description:"change color of tasks" entry:"1288642102" status:"pending" uuid:"c4f580a3-7b41-4393-adb0-0f9706d5de0e"]
+new [description:"change color of tasks" end:"1288726580" entry:"1288642102" status:"completed" uuid:"c4f580a3-7b41-4393-adb0-0f9706d5de0e"]
+---
+time 1288726938
+new [description:"fix select/clear html that gets returned" entry:"1288726938" status:"pending" uuid:"5c0da720-ffbb-44b7-991d-a154cf498160"]
+---
+time 1288726949
+old [description:"make collection clickable to select" entry:"1288641993" status:"pending" uuid:"364a8d08-c48c-4557-90ee-3f8dce357714"]
+new [description:"make collection clickable to select" end:"1288726949" entry:"1288641993" status:"completed" uuid:"364a8d08-c48c-4557-90ee-3f8dce357714"]
+---
+time 1288726958
+new [description:"make the autocomplete work like users page" entry:"1288726958" status:"pending" uuid:"b18d604c-3fef-4d9e-bb14-c893a84a3bb6"]
+---
+time 1288726973
+new [description:"make the heart toggle membership in the drawer" entry:"1288726973" status:"pending" uuid:"890d7778-a5b9-4f1c-b93f-b1c95119ab26"]
+---
+time 1290009108
+old [description:"move collection name to same level as edit collection" entry:"1288204160" status:"pending" uuid:"40b6bbf6-9d1a-420f-84da-b96187ec333a"]
+new [description:"move collection name to same level as edit collection" end:"1290009092" entry:"1288204160" status:"completed" uuid:"40b6bbf6-9d1a-420f-84da-b96187ec333a"]
+---
+time 1290009108
+old [description:"make a mini hud for confirmation" entry:"1288204224" status:"pending" uuid:"2d057d9e-1c8b-448d-b718-71e937596dfd"]
+new [description:"make a mini hud for confirmation" end:"1290009105" entry:"1288204224" status:"completed" uuid:"2d057d9e-1c8b-448d-b718-71e937596dfd"]
+---
+time 1290009108
+old [description:"move collection references into a widget" entry:"1288204236" status:"pending" uuid:"1c2de632-c6d7-4c7c-8835-9c6e49fd19a0"]
+new [description:"move collection references into a widget" end:"1290009106" entry:"1288204236" status:"completed" uuid:"1c2de632-c6d7-4c7c-8835-9c6e49fd19a0"]
+---
+time 1290009108
+old [description:"fix use selection button" entry:"1288642000" status:"pending" uuid:"ecdf791b-2f34-4726-9ea2-354121e3bb00"]
+new [description:"fix use selection button" end:"1290009107" entry:"1288642000" status:"completed" uuid:"ecdf791b-2f34-4726-9ea2-354121e3bb00"]
+---
+time 1290009122
+old [description:"use event delegation for task dragging" entry:"1288642081" status:"pending" uuid:"b1d7179b-a480-48b8-af71-6ebf76229e11"]
+new [description:"use event delegation for task dragging" end:"1290009120" entry:"1288642081" status:"completed" uuid:"b1d7179b-a480-48b8-af71-6ebf76229e11"]
+---
+time 1290009122
+old [description:"add to drawer callback in p2p.drawer for single item" entry:"1288650670" status:"pending" uuid:"c73d9328-b41e-4f60-9180-982c8d5f522c"]
+new [description:"add to drawer callback in p2p.drawer for single item" end:"1290009122" entry:"1288650670" status:"completed" uuid:"c73d9328-b41e-4f60-9180-982c8d5f522c"]
+---
+time 1290009122
+old [description:"fix select/clear html that gets returned" entry:"1288726938" status:"pending" uuid:"5c0da720-ffbb-44b7-991d-a154cf498160"]
+new [description:"fix select/clear html that gets returned" end:"1290009122" entry:"1288726938" status:"completed" uuid:"5c0da720-ffbb-44b7-991d-a154cf498160"]
+---
+time 1290009122
+old [description:"make the autocomplete work like users page" entry:"1288726958" status:"pending" uuid:"b18d604c-3fef-4d9e-bb14-c893a84a3bb6"]
+new [description:"make the autocomplete work like users page" end:"1290009122" entry:"1288726958" status:"completed" uuid:"b18d604c-3fef-4d9e-bb14-c893a84a3bb6"]
+---
+time 1290009122
+old [description:"make the heart toggle membership in the drawer" entry:"1288726973" status:"pending" uuid:"890d7778-a5b9-4f1c-b93f-b1c95119ab26"]
+new [description:"make the heart toggle membership in the drawer" end:"1290009122" entry:"1288726973" status:"completed" uuid:"890d7778-a5b9-4f1c-b93f-b1c95119ab26"]
+---
