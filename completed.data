@@ -12,3 +12,4 @@
 [description:"fix select/clear html that gets returned" end:"1290009122" entry:"1288726938" status:"completed" uuid:"5c0da720-ffbb-44b7-991d-a154cf498160"]
 [description:"make the autocomplete work like users page" end:"1290009122" entry:"1288726958" status:"completed" uuid:"b18d604c-3fef-4d9e-bb14-c893a84a3bb6"]
 [description:"make the heart toggle membership in the drawer" end:"1290009122" entry:"1288726973" status:"completed" uuid:"890d7778-a5b9-4f1c-b93f-b1c95119ab26"]
+[description:"add listener to heart button" end:"1291674751" entry:"1291060039" status:"completed" uuid:"c44a09e4-d817-4fb7-a22d-55499653425d"]
