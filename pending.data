@@ -1,0 +1,6 @@
+[description:"Fix WP hiding to its completely off screen" entry:"1304957292" status:"pending" uuid:"4da5ebaa-4f7d-40ce-aeb2-01ab7bbc5b4d"]
+[description:"notify module it is active onTabSwitch" entry:"1305139722" status:"pending" uuid:"fcbfd30b-cbc0-4b88-b29d-57871d2e49bf"]
+[description:"do not resize smaller than min height" entry:"1305139735" status:"pending" uuid:"7e536e29-b171-4486-8fb5-77bf4e31d9ea"]
+[description:"make wp.update jsonp a real request" entry:"1305139756" status:"pending" uuid:"52bdf41c-6146-4ba3-a6f3-2c6af8f4cf7a"]
+[description:"write a destructor for work palette" entry:"1305139783" status:"pending" uuid:"81f953ef-1555-45fc-9cdf-987fb8c0abbe"]
+[description:"activate tab if WP starts open" entry:"1305148807" status:"pending" uuid:"bbd8b4f7-ae09-4e4b-abb5-0ff9d0ac0f04"]

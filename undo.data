@@ -152,3 +152,343 @@ time 1290009122
 old [description:"make the heart toggle membership in the drawer" entry:"1288726973" status:"pending" uuid:"890d7778-a5b9-4f1c-b93f-b1c95119ab26"]
 new [description:"make the heart toggle membership in the drawer" end:"1290009122" entry:"1288726973" status:"completed" uuid:"890d7778-a5b9-4f1c-b93f-b1c95119ab26"]
 ---
+time 1291060018
+new [description:"fix use selection button" entry:"1291060018" status:"pending" uuid:"c9e01f6b-cf98-434f-aa23-bca304d51f18"]
+---
+time 1291060039
+new [description:"add listener to heart button" entry:"1291060039" status:"pending" uuid:"c44a09e4-d817-4fb7-a22d-55499653425d"]
+---
+time 1291060052
+new [description:"update hearts on work palette change" entry:"1291060052" status:"pending" uuid:"4449ec73-3fed-4d0d-b7e9-e82df80ee29d"]
+---
+time 1291217939
+new [description:"change collection over to work palette mode of selectino" entry:"1291217939" status:"pending" uuid:"2e6f4fc7-f318-4511-ab08-d2ecc87743ca"]
+---
+time 1291674751
+old [description:"add listener to heart button" entry:"1291060039" status:"pending" uuid:"c44a09e4-d817-4fb7-a22d-55499653425d"]
+new [description:"add listener to heart button" end:"1291674751" entry:"1291060039" status:"completed" uuid:"c44a09e4-d817-4fb7-a22d-55499653425d"]
+---
+time 1291674756
+old [description:"update hearts on work palette change" entry:"1291060052" status:"pending" uuid:"4449ec73-3fed-4d0d-b7e9-e82df80ee29d"]
+new [description:"update hearts on work palette change" end:"1291674756" entry:"1291060052" status:"completed" uuid:"4449ec73-3fed-4d0d-b7e9-e82df80ee29d"]
+---
+time 1291674759
+old [description:"change collection over to work palette mode of selectino" entry:"1291217939" status:"pending" uuid:"2e6f4fc7-f318-4511-ab08-d2ecc87743ca"]
+new [description:"change collection over to work palette mode of selectino" end:"1291674759" entry:"1291217939" status:"completed" uuid:"2e6f4fc7-f318-4511-ab08-d2ecc87743ca"]
+---
+time 1291674831
+new [description:"fix hud on collections/edit when you add multiple items that are already in collection" entry:"1291674831" status:"pending" uuid:"93b937ee-2b63-4857-89e4-ba09a42fbf9b"]
+---
+time 1291737579
+new [description:"add generic huds to hud.js" entry:"1291737579" status:"pending" uuid:"19968e4c-8d5c-446d-b07c-de846b3c725a"]
+---
+time 1291741298
+new [description:"finish the rest of the collection ticket" entry:"1291741298" status:"pending" uuid:"8c318a05-0aef-4a7a-9fea-fece489e6cc8"]
+---
+time 1291741305
+old [description:"fix hud on collections/edit when you add multiple items that are already in collection" entry:"1291674831" status:"pending" uuid:"93b937ee-2b63-4857-89e4-ba09a42fbf9b"]
+new [description:"fix hud on collections/edit when you add multiple items that are already in collection" end:"1291741305" entry:"1291674831" status:"completed" uuid:"93b937ee-2b63-4857-89e4-ba09a42fbf9b"]
+---
+time 1292442171
+old [description:"finish the rest of the collection ticket" entry:"1291741298" status:"pending" uuid:"8c318a05-0aef-4a7a-9fea-fece489e6cc8"]
+new [description:"finish the rest of the collection ticket" end:"1292442171" entry:"1291741298" status:"completed" uuid:"8c318a05-0aef-4a7a-9fea-fece489e6cc8"]
+---
+time 1292442180
+new [description:"search results features" entry:"1292442180" status:"pending" uuid:"7d337d59-c33b-4908-a380-af20a954022c"]
+---
+time 1292442197
+new [description:"collection edit features - fix last 2" entry:"1292442197" status:"pending" uuid:"143ee725-a189-4a3a-82e2-77d459d2c4e6"]
+---
+time 1292442212
+new [description:"collection index features" entry:"1292442212" status:"pending" uuid:"b7846669-2db6-4c63-8e3a-c2613677dfbc"]
+---
+time 1292442217
+new [description:"module features" entry:"1292442217" status:"pending" uuid:"60d05faa-3a34-4f54-89ce-b37beb20e68f"]
+---
+time 1292444461
+new [description:"fix hover states on search results page" entry:"1292444461" status:"pending" uuid:"b27d9b26-b33d-44ab-accb-f1eeb52d6b03"]
+---
+time 1292444687
+old [description:"search results features" entry:"1292442180" status:"pending" uuid:"7d337d59-c33b-4908-a380-af20a954022c"]
+new [description:"search results features" end:"1292444687" entry:"1292442180" status:"completed" uuid:"7d337d59-c33b-4908-a380-af20a954022c"]
+---
+time 1292444699
+old [description:"collection edit features - fix last 2" entry:"1292442197" status:"pending" uuid:"143ee725-a189-4a3a-82e2-77d459d2c4e6"]
+new [description:"collection edit features - fix last 2" end:"1292444699" entry:"1292442197" status:"completed" uuid:"143ee725-a189-4a3a-82e2-77d459d2c4e6"]
+---
+time 1292448750
+new [description:"add tr click back to collection index" entry:"1292448750" status:"pending" uuid:"e1d94932-d8a3-49d7-8a4d-b8a870176288"]
+---
+time 1292448758
+old [description:"collection index features" entry:"1292442212" status:"pending" uuid:"b7846669-2db6-4c63-8e3a-c2613677dfbc"]
+new [description:"collection index features" end:"1292448758" entry:"1292442212" status:"completed" uuid:"b7846669-2db6-4c63-8e3a-c2613677dfbc"]
+---
+time 1292877405
+old [description:"fix hover states on search results page" entry:"1292444461" status:"pending" uuid:"b27d9b26-b33d-44ab-accb-f1eeb52d6b03"]
+new [description:"fix hover states on search results page" end:"1292877405" entry:"1292444461" status:"completed" uuid:"b27d9b26-b33d-44ab-accb-f1eeb52d6b03"]
+---
+time 1292886897
+new [description:"heart button to relationship tab" entry:"1292886897" status:"pending" uuid:"7d5b2e42-ac54-42c3-8aa4-980a572df41c"]
+---
+time 1292887484
+new [description:"solve your section layout bug" entry:"1292887484" status:"pending" uuid:"70d1c76a-63e3-42f5-bc2d-e3fd2befec1f"]
+---
+time 1294261765
+old [description:"fix use selection button" entry:"1291060018" status:"pending" uuid:"c9e01f6b-cf98-434f-aa23-bca304d51f18"]
+new [description:"fix use selection button" end:"1294261765" entry:"1291060018" status:"completed" uuid:"c9e01f6b-cf98-434f-aa23-bca304d51f18"]
+---
+time 1294261776
+old [description:"solve your section layout bug" entry:"1292887484" status:"pending" uuid:"70d1c76a-63e3-42f5-bc2d-e3fd2befec1f"]
+new [description:"solve your section layout bug" end:"1294261776" entry:"1292887484" status:"completed" uuid:"70d1c76a-63e3-42f5-bc2d-e3fd2befec1f"]
+---
+time 1294261783
+old [description:"heart button to relationship tab" entry:"1292886897" status:"pending" uuid:"7d5b2e42-ac54-42c3-8aa4-980a572df41c"]
+new [description:"heart button to relationship tab" end:"1294261783" entry:"1292886897" status:"completed" uuid:"7d5b2e42-ac54-42c3-8aa4-980a572df41c"]
+---
+time 1294261806
+old [description:"add generic huds to hud.js" entry:"1291737579" status:"pending" uuid:"19968e4c-8d5c-446d-b07c-de846b3c725a"]
+new [description:"add generic huds to hud.js" end:"1294261788" entry:"1291737579" status:"completed" uuid:"19968e4c-8d5c-446d-b07c-de846b3c725a"]
+---
+time 1294261806
+old [description:"module features" entry:"1292442217" status:"pending" uuid:"60d05faa-3a34-4f54-89ce-b37beb20e68f"]
+new [description:"module features" end:"1294261804" entry:"1292442217" status:"completed" uuid:"60d05faa-3a34-4f54-89ce-b37beb20e68f"]
+---
+time 1294261806
+old [description:"add tr click back to collection index" entry:"1292448750" status:"pending" uuid:"e1d94932-d8a3-49d7-8a4d-b8a870176288"]
+new [description:"add tr click back to collection index" end:"1294261806" entry:"1292448750" status:"completed" uuid:"e1d94932-d8a3-49d7-8a4d-b8a870176288"]
+---
+time 1294261834
+new [description:"move rest of old hud to new hud" entry:"1294261834" status:"pending" uuid:"fc30c24e-6342-4c44-90f0-b4ca90e6f4ed"]
+---
+time 1294261848
+new [description:"on pac_collections/edit add clicable row back" entry:"1294261848" status:"pending" uuid:"0017a3f1-40d9-4a05-9c16-0147ca891f32"]
+---
+time 1294261889
+new [description:"when adding form wp to related items, open related item" entry:"1294261889" status:"pending" uuid:"994c6591-5ce6-4174-879b-45015efbcd3c"]
+---
+time 1297285154
+new [description:"finish menu gradient with css3" entry:"1297285154" status:"pending" uuid:"6425e35b-a160-4e21-9206-d975bdfd536d"]
+---
+time 1297285195
+new [description:"fix the clobber page, make it look lik http://content.p2p-dt.tii.trb/section_config_clobber/new/4774" entry:"1297285195" status:"pending" uuid:"e4e5f97b-64f8-4b72-b3ca-c75e113776d0"]
+---
+time 1297285233
+new [description:"fix the other page pulley sent" entry:"1297285233" status:"pending" uuid:"a75c3a21-c254-4050-88c8-36a5777d9a2a"]
+---
+time 1297285256
+old [description:"fix the other page pulley sent" entry:"1297285233" status:"pending" uuid:"a75c3a21-c254-4050-88c8-36a5777d9a2a"]
+new [description:"fix the other page pulley sent" end:"1297285253" entry:"1297285233" status:"deleted" uuid:"a75c3a21-c254-4050-88c8-36a5777d9a2a"]
+---
+time 1297285293
+new [description:"fix clone section pages" entry:"1297285293" status:"pending" uuid:"af8e27ec-d0e1-4a2b-b2b6-f58c9de25dd0"]
+---
+time 1297301857
+new [description:"put loadmask on drawer items when you do shit with them" entry:"1297301857" status:"pending" uuid:"cc602a23-2efd-4b0b-b570-3728e14d26b3"]
+---
+time 1297301870
+new [description:"better error handling for drawer item ajax crap" entry:"1297301870" status:"pending" uuid:"4d0e310f-0457-41ee-84af-93dff7102507"]
+---
+time 1298392607
+old [description:"fix clone section pages" entry:"1297285293" status:"pending" uuid:"af8e27ec-d0e1-4a2b-b2b6-f58c9de25dd0"]
+new [description:"fix clone section pages" end:"1298392607" entry:"1297285293" status:"completed" uuid:"af8e27ec-d0e1-4a2b-b2b6-f58c9de25dd0"]
+---
+time 1298392612
+old [description:"fix the clobber page, make it look lik http://content.p2p-dt.tii.trb/section_config_clobber/new/4774" entry:"1297285195" status:"pending" uuid:"e4e5f97b-64f8-4b72-b3ca-c75e113776d0"]
+new [description:"fix the clobber page, make it look lik http://content.p2p-dt.tii.trb/section_config_clobber/new/4774" end:"1298392612" entry:"1297285195" status:"completed" uuid:"e4e5f97b-64f8-4b72-b3ca-c75e113776d0"]
+---
+time 1298392630
+old [description:"finish menu gradient with css3" entry:"1297285154" status:"pending" uuid:"6425e35b-a160-4e21-9206-d975bdfd536d"]
+new [description:"finish menu gradient with css3" end:"1298392629" entry:"1297285154" status:"deleted" uuid:"6425e35b-a160-4e21-9206-d975bdfd536d"]
+---
+time 1304434411
+old [description:"move rest of old hud to new hud" entry:"1294261834" status:"pending" uuid:"fc30c24e-6342-4c44-90f0-b4ca90e6f4ed"]
+new [description:"move rest of old hud to new hud" end:"1304434408" entry:"1294261834" status:"deleted" uuid:"fc30c24e-6342-4c44-90f0-b4ca90e6f4ed"]
+---
+time 1304434422
+old [description:"on pac_collections/edit add clicable row back" entry:"1294261848" status:"pending" uuid:"0017a3f1-40d9-4a05-9c16-0147ca891f32"]
+new [description:"on pac_collections/edit add clicable row back" end:"1304434419" entry:"1294261848" status:"deleted" uuid:"0017a3f1-40d9-4a05-9c16-0147ca891f32"]
+---
+time 1304434422
+old [description:"when adding form wp to related items, open related item" entry:"1294261889" status:"pending" uuid:"994c6591-5ce6-4174-879b-45015efbcd3c"]
+new [description:"when adding form wp to related items, open related item" end:"1304434419" entry:"1294261889" status:"deleted" uuid:"994c6591-5ce6-4174-879b-45015efbcd3c"]
+---
+time 1304434429
+old [description:"put loadmask on drawer items when you do shit with them" entry:"1297301857" status:"pending" uuid:"cc602a23-2efd-4b0b-b570-3728e14d26b3"]
+new [description:"put loadmask on drawer items when you do shit with them" end:"1304434427" entry:"1297301857" status:"deleted" uuid:"cc602a23-2efd-4b0b-b570-3728e14d26b3"]
+---
+time 1304434429
+old [description:"better error handling for drawer item ajax crap" entry:"1297301870" status:"pending" uuid:"4d0e310f-0457-41ee-84af-93dff7102507"]
+new [description:"better error handling for drawer item ajax crap" end:"1304434427" entry:"1297301870" status:"deleted" uuid:"4d0e310f-0457-41ee-84af-93dff7102507"]
+---
+time 1304434583
+new [description:"Move WorkPalette into index.js.erb" entry:"1304434583" status:"pending" uuid:"039390a4-64f6-4d92-835d-d43aba32ae6b"]
+---
+time 1304434593
+new [description:"Use old WP shell" entry:"1304434593" status:"pending" uuid:"176ab929-5c96-40d7-9c37-d41124df7f3c"]
+---
+time 1304434601
+new [description:"Remove title area from Work Palette" entry:"1304434601" status:"pending" uuid:"c049907a-686a-43ae-b9a2-239a53a34192"]
+---
+time 1304434628
+new [description:"Create config objects for WorkPalette and Clipboard" entry:"1304434628" status:"pending" uuid:"589eaeb3-e530-4c8e-9f7f-eecee5fc3ded"]
+---
+time 1304438420
+new [description:"Move tab area outside of WorkPalette propper" entry:"1304438420" status:"pending" uuid:"da97b2b3-42c8-4c1a-a41f-28ca1756f672"]
+---
+time 1304438429
+old [description:"Move tab area outside of WorkPalette propper" entry:"1304438420" status:"pending" uuid:"da97b2b3-42c8-4c1a-a41f-28ca1756f672"]
+new [description:"Move tab area outside of WorkPalette propper" end:"1304438428" entry:"1304438420" status:"completed" uuid:"da97b2b3-42c8-4c1a-a41f-28ca1756f672"]
+---
+time 1304438763
+old [description:"Move WorkPalette into index.js.erb" entry:"1304434583" status:"pending" uuid:"039390a4-64f6-4d92-835d-d43aba32ae6b"]
+new [description:"Move WorkPalette into index.js.erb" end:"1304438763" entry:"1304434583" status:"completed" uuid:"039390a4-64f6-4d92-835d-d43aba32ae6b"]
+---
+time 1304438771
+old [description:"Create config objects for WorkPalette and Clipboard" entry:"1304434628" status:"pending" uuid:"589eaeb3-e530-4c8e-9f7f-eecee5fc3ded"]
+new [description:"Create config objects for WorkPalette and Clipboard" end:"1304438771" entry:"1304434628" status:"completed" uuid:"589eaeb3-e530-4c8e-9f7f-eecee5fc3ded"]
+---
+time 1304440808
+new [description:"Add tab area to WP shell" entry:"1304440808" status:"pending" uuid:"b2174eed-5a06-47b9-8f98-a841a9c52781"]
+---
+time 1304440821
+new [description:"Add contnt area to WP shell" entry:"1304440821" status:"pending" uuid:"166a37fa-7a74-49a0-abc5-4cd2f0efd44a"]
+---
+time 1304440836
+new [description:"Create tab onswitch callback to show the work palette if hidden" entry:"1304440836" status:"pending" uuid:"99551223-38db-490d-9428-7502116a2226"]
+---
+time 1304440851
+new [description:"Position the tab area to the side of the WP" entry:"1304440851" status:"pending" uuid:"d8434f78-eb88-4ddb-a238-f115d065c81f"]
+---
+time 1304441055
+new [description:"Pull the clipboard HTMl out of the drawer shell" entry:"1304441055" status:"pending" uuid:"639027da-052b-46ef-b5b9-0f970d8be5e5"]
+---
+time 1304454890
+old [description:"Use old WP shell" entry:"1304434593" status:"pending" uuid:"176ab929-5c96-40d7-9c37-d41124df7f3c"]
+new [description:"Use old WP shell" end:"1304454887" entry:"1304434593" status:"deleted" uuid:"176ab929-5c96-40d7-9c37-d41124df7f3c"]
+---
+time 1304454896
+old [description:"Pull the clipboard HTMl out of the drawer shell" entry:"1304441055" status:"pending" uuid:"639027da-052b-46ef-b5b9-0f970d8be5e5"]
+new [description:"Pull the clipboard HTMl out of the drawer shell" end:"1304454895" entry:"1304441055" status:"completed" uuid:"639027da-052b-46ef-b5b9-0f970d8be5e5"]
+---
+time 1304454994
+new [description:"Migrate old WP styles to new drawer shell" entry:"1304454994" status:"pending" uuid:"505d524a-c276-4635-b35f-0fec1a521bf6"]
+---
+time 1304520859
+new [description:"Move positioning methods from old modal into new" entry:"1304520859" status:"pending" uuid:"a4fe2a29-8d50-4b48-8342-d9092b8abac2"]
+---
+time 1304520912
+new [description:"Get the WP to actually show up" entry:"1304520912" status:"pending" uuid:"aef91c70-db7d-492f-9af2-9b5f3126e6c6"]
+---
+time 1304534420
+new [description:"Done some stuff" entry:"1304534420" status:"pending" uuid:"529c3181-8ecd-47b8-b557-0f02850b28c1"]
+---
+time 1304534428
+old [description:"Done some stuff" entry:"1304534420" status:"pending" uuid:"529c3181-8ecd-47b8-b557-0f02850b28c1"]
+new [description:"Done some stuff" end:"1304534425" entry:"1304534420" status:"deleted" uuid:"529c3181-8ecd-47b8-b557-0f02850b28c1"]
+---
+time 1304536088
+old [description:"Remove title area from Work Palette" entry:"1304434601" status:"pending" uuid:"c049907a-686a-43ae-b9a2-239a53a34192"]
+new [description:"Remove title area from Work Palette" end:"1304536087" entry:"1304434601" status:"deleted" uuid:"c049907a-686a-43ae-b9a2-239a53a34192"]
+---
+time 1304545424
+old [description:"Add contnt area to WP shell" entry:"1304440821" status:"pending" uuid:"166a37fa-7a74-49a0-abc5-4cd2f0efd44a"]
+new [description:"Add contnt area to WP shell" end:"1304545424" entry:"1304440821" status:"completed" uuid:"166a37fa-7a74-49a0-abc5-4cd2f0efd44a"]
+---
+time 1304610137
+old [description:"Add tab area to WP shell" entry:"1304440808" status:"pending" uuid:"b2174eed-5a06-47b9-8f98-a841a9c52781"]
+new [description:"Add tab area to WP shell" end:"1304610137" entry:"1304440808" status:"completed" uuid:"b2174eed-5a06-47b9-8f98-a841a9c52781"]
+---
+time 1304610155
+new [description:"Add a simple module to work palette for testing" entry:"1304610155" status:"pending" uuid:"5e58247e-cde5-4f7b-9af2-ec360a65992b"]
+---
+time 1304610735
+old [description:"Get the WP to actually show up" entry:"1304520912" status:"pending" uuid:"aef91c70-db7d-492f-9af2-9b5f3126e6c6"]
+new [description:"Get the WP to actually show up" end:"1304610733" entry:"1304520912" status:"deleted" uuid:"aef91c70-db7d-492f-9af2-9b5f3126e6c6"]
+---
+time 1304610748
+new [description:"Add tabswitch callback to make work palette show up" entry:"1304610748" status:"pending" uuid:"4b39f71f-af6f-4a0e-94eb-a24a10d98494"]
+---
+time 1304612281
+old [description:"Add a simple module to work palette for testing" entry:"1304610155" status:"pending" uuid:"5e58247e-cde5-4f7b-9af2-ec360a65992b"]
+new [description:"Add a simple module to work palette for testing" end:"1304612281" entry:"1304610155" status:"completed" uuid:"5e58247e-cde5-4f7b-9af2-ec360a65992b"]
+---
+time 1304612290
+old [description:"Position the tab area to the side of the WP" entry:"1304440851" status:"pending" uuid:"d8434f78-eb88-4ddb-a238-f115d065c81f"]
+new [description:"Position the tab area to the side of the WP" end:"1304612290" entry:"1304440851" status:"completed" uuid:"d8434f78-eb88-4ddb-a238-f115d065c81f"]
+---
+time 1304612833
+new [description:"Fix tabswitch" entry:"1304612833" status:"pending" uuid:"a3f699e5-bc88-4dff-a4c3-3b062e4b77b6"]
+---
+time 1304614277
+new [description:"Add registered tab as activeTab if there are no prev tab" entry:"1304614277" status:"pending" uuid:"f4ead239-17a8-4c0d-bd13-6b0413d8a0e7"]
+---
+time 1304624279
+old [description:"Fix tabswitch" entry:"1304612833" status:"pending" uuid:"a3f699e5-bc88-4dff-a4c3-3b062e4b77b6"]
+new [description:"Fix tabswitch" end:"1304624279" entry:"1304612833" status:"completed" uuid:"a3f699e5-bc88-4dff-a4c3-3b062e4b77b6"]
+---
+time 1304624526
+old [description:"Add tabswitch callback to make work palette show up" entry:"1304610748" status:"pending" uuid:"4b39f71f-af6f-4a0e-94eb-a24a10d98494"]
+new [description:"Add tabswitch callback to make work palette show up" end:"1304624525" entry:"1304610748" status:"deleted" uuid:"4b39f71f-af6f-4a0e-94eb-a24a10d98494"]
+---
+time 1304713942
+old [description:"Add registered tab as activeTab if there are no prev tab" entry:"1304614277" status:"pending" uuid:"f4ead239-17a8-4c0d-bd13-6b0413d8a0e7"]
+new [description:"Add registered tab as activeTab if there are no prev tab" end:"1304713942" entry:"1304614277" status:"completed" uuid:"f4ead239-17a8-4c0d-bd13-6b0413d8a0e7"]
+---
+time 1304719294
+new [description:"center WP vertically" entry:"1304719294" status:"pending" uuid:"cfbaeb36-5399-412a-a67d-9b2d2ab77b4e"]
+---
+time 1304956689
+old [description:"Create tab onswitch callback to show the work palette if hidden" entry:"1304440836" status:"pending" uuid:"99551223-38db-490d-9428-7502116a2226"]
+new [description:"Create tab onswitch callback to show the work palette if hidden" end:"1304956689" entry:"1304440836" status:"completed" uuid:"99551223-38db-490d-9428-7502116a2226"]
+---
+time 1304956712
+new [description:"Fix tab callback to mark tab inactive when closing WP" entry:"1304956712" status:"pending" uuid:"a8a764d5-472e-4cb4-aa4c-c55b09291da5"]
+---
+time 1304957292
+new [description:"Fix WP hiding to its completely off screen" entry:"1304957292" status:"pending" uuid:"4da5ebaa-4f7d-40ce-aeb2-01ab7bbc5b4d"]
+---
+time 1304958233
+old [description:"Fix tab callback to mark tab inactive when closing WP" entry:"1304956712" status:"pending" uuid:"a8a764d5-472e-4cb4-aa4c-c55b09291da5"]
+new [description:"Fix tab callback to mark tab inactive when closing WP" end:"1304958233" entry:"1304956712" status:"completed" uuid:"a8a764d5-472e-4cb4-aa4c-c55b09291da5"]
+---
+time 1304959280
+new [description:"Modify registerModule to remove text on line" entry:"1304959280" status:"pending" uuid:"15353dcf-b971-4234-bdcd-057dd3139972"]
+---
+time 1304959286
+old [description:"Modify registerModule to remove text on line" entry:"1304959280" status:"pending" uuid:"15353dcf-b971-4234-bdcd-057dd3139972"]
+new [description:"Modify registerModule to remove text on line" end:"1304959285" entry:"1304959280" status:"deleted" uuid:"15353dcf-b971-4234-bdcd-057dd3139972"]
+---
+time 1304959295
+new [description:"Modify registerModule to remove text on link" entry:"1304959295" status:"pending" uuid:"b97ba1cd-10e3-4e61-a8b1-307eb0f8b184"]
+---
+time 1305118992
+old [description:"Migrate old WP styles to new drawer shell" entry:"1304454994" status:"pending" uuid:"505d524a-c276-4635-b35f-0fec1a521bf6"]
+new [description:"Migrate old WP styles to new drawer shell" end:"1305118992" entry:"1304454994" status:"completed" uuid:"505d524a-c276-4635-b35f-0fec1a521bf6"]
+---
+time 1305119711
+old [description:"Move positioning methods from old modal into new" entry:"1304520859" status:"pending" uuid:"a4fe2a29-8d50-4b48-8342-d9092b8abac2"]
+new [description:"Move positioning methods from old modal into new" end:"1305119711" entry:"1304520859" status:"completed" uuid:"a4fe2a29-8d50-4b48-8342-d9092b8abac2"]
+---
+time 1305119721
+old [description:"Modify registerModule to remove text on link" entry:"1304959295" status:"pending" uuid:"b97ba1cd-10e3-4e61-a8b1-307eb0f8b184"]
+new [description:"Modify registerModule to remove text on link" end:"1305119721" entry:"1304959295" status:"completed" uuid:"b97ba1cd-10e3-4e61-a8b1-307eb0f8b184"]
+---
+time 1305123735
+old [description:"center WP vertically" entry:"1304719294" status:"pending" uuid:"cfbaeb36-5399-412a-a67d-9b2d2ab77b4e"]
+new [description:"center WP vertically" end:"1305123735" entry:"1304719294" status:"completed" uuid:"cfbaeb36-5399-412a-a67d-9b2d2ab77b4e"]
+---
+time 1305139722
+new [description:"notify module it is active onTabSwitch" entry:"1305139722" status:"pending" uuid:"fcbfd30b-cbc0-4b88-b29d-57871d2e49bf"]
+---
+time 1305139735
+new [description:"do not resize smaller than min height" entry:"1305139735" status:"pending" uuid:"7e536e29-b171-4486-8fb5-77bf4e31d9ea"]
+---
+time 1305139756
+new [description:"make wp.update jsonp a real request" entry:"1305139756" status:"pending" uuid:"52bdf41c-6146-4ba3-a6f3-2c6af8f4cf7a"]
+---
+time 1305139783
+new [description:"write a destructor for work palette" entry:"1305139783" status:"pending" uuid:"81f953ef-1555-45fc-9cdf-987fb8c0abbe"]
+---
+time 1305148807
+new [description:"activate tab if WP starts open" entry:"1305148807" status:"pending" uuid:"bbd8b4f7-ae09-4e4b-abb5-0ff9d0ac0f04"]
+---
